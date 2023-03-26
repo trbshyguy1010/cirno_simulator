@@ -223,7 +223,7 @@ int main()
             if (glfwGetKey(window, GLFW_KEY_UP) == GLFW_PRESS)
             {
 
-                velocity = (deltaTime) * 1.5f;
+                velocity = (deltaTime / earthGravity) * 1.5f;
                 position += (velocity * deltaTime);
                 // earthGravity = 0;
                 std::cout << velocity << "      " << position << std::endl;
