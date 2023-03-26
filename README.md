@@ -8,3 +8,6 @@ aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl and c++ t
 1. run the compile script mentionned above
 1. ???
 1. profit?
+
+- press `Enter` and watch the EXPLOOOOOOOOOOSION!!!
+- press `G` to enable gravity and `R` to disable it
