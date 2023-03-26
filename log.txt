@@ -1,0 +1,1 @@
+date && g++ ./thefoni.cpp ./stb_image.h ./glad.c -o output.o -L/usr/lib -ldl -L/usr/include/glad -lglfw
