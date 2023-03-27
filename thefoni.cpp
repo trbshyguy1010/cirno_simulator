@@ -217,7 +217,7 @@ int main()
             {
 
                 velocity = (deltaTime / earthGravity) * 1.5f;
-                position += (velocity * deltaTime);
+                position = (velocity * deltaTime);
                 // earthGravity = 0;
                 std::cout << velocity << "      " << position << std::endl;
                 std::cout << "I am constanly being pressed upwards!" << std::endl;
