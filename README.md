@@ -11,3 +11,6 @@ aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl and c++ t
 
 - press `Enter` and watch the EXPLOOOOOOOOOOSION!!!
 - press `G` to enable gravity and `R` to disable it
+
+# Preview of the engine so far:
+![Screenshot_20230619_134602](https://github.com/trbshyguy1010/cirno_simulator/assets/84151427/9011b733-124d-41ae-b26b-16cd210b965b)
