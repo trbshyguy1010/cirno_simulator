@@ -1,5 +1,5 @@
 # thefoni
-aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl and c++ to render a sprite of cirno with a couple of twists... 
+aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl with the GLFW library and C++ to render a sprite of cirno with a couple of twists... 
 
 - you can find the compile string in the `log.txt` file
 
@@ -9,7 +9,7 @@ aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl and c++ t
 1. ???
 1. profit?
 
-- press `Enter` and watch the EXPLOOOOOOOOOOSION!!!
+- ~~press `Enter` and watch the EXPLOOOOOOOOOOSION!!!~~ (deprecated)
 - press `G` to enable gravity and `R` to disable it
 
 # Preview of the engine so far:
