@@ -14,3 +14,7 @@ aka cirnosimulator, is mainly a hobbyist project utilizing pure opengl with the 
 
 # Preview of the engine so far:
 ![Screenshot_20230619_134602](https://github.com/trbshyguy1010/cirno_simulator/assets/84151427/9011b733-124d-41ae-b26b-16cd210b965b)
+
+## Proof that this works on other devices :
+Shoutout to my friend who took the time to do this shit
+![Screenshot_20240617_130835](https://github.com/trbshyguy1010/cirno_simulator/assets/84151427/a5212f2a-3dc7-44e1-a861-f6b8cea55757)
